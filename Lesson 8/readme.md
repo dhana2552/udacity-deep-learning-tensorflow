@@ -4,4 +4,5 @@ In this lesson, time series forecasting is explained with various approaches in 
 
 The concepts learnt so far are:
 * Common Patterns - Trend, Seasonality, Noise
-* Basic Forecasting approaches - Naive Forecating, Moving Average (to be updated)
+* Basic Forecasting approaches - Naive Forecating, Moving Average
+* Time window preparation - in order to use for model creation and evaluation
