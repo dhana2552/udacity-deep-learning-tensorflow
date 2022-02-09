@@ -7,3 +7,5 @@ The concepts learnt so far are:
 * Basic Forecasting approaches - Naive Forecating, Moving Average
 * Time window preparation - in order to use for model creation and evaluation
 * Forecasting with basic tensorflow models (linear and dense)
+* Simple RNN - Sequential to Vector model, Sequential to Sequential model
+* Stateful RNN - Includes sequential batches one after the other (not shuffled)
