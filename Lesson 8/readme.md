@@ -10,3 +10,4 @@ The concepts learnt so far are:
 * Simple RNN - Sequential to Vector model, Sequential to Sequential model
 * Stateful RNN - Includes sequential batches one after the other (not shuffled)
 * LSTM - With stateful rnn architecture
+* CNN - simple cnn and with various dilation rates
