@@ -9,3 +9,4 @@ The concepts learnt so far are:
 * Forecasting with basic tensorflow models (linear and dense)
 * Simple RNN - Sequential to Vector model, Sequential to Sequential model
 * Stateful RNN - Includes sequential batches one after the other (not shuffled)
+* LSTM - With stateful rnn architecture
